@@ -1,0 +1,11 @@
+int max(int num1,float num2)
+{ scanf(x);
+if num1!=14 printf(x);
+else printf ("bonjour")
+if 4==4; 
+else
+b=4;
+
+    return x>y?x:y;
+
+}
